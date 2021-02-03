@@ -1,5 +1,8 @@
 # Tópicos Avançados em Informática II
-**Semestre Remoto 2020.2**
+**Semestre Remoto 2020.2** | **Universidade Federal do Rio Grande do Norte** | **Escola de Ciências e Tecnologia**
+
+Docente: **Carlos Olarte**
+Discente: **Michel Nunes**
 
 O presente repositório servirá para armazenar atividades propostas na disciplina durante o curso e estará público até o término do semestre letivo 
 
